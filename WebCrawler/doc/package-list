@@ -1,0 +1,7 @@
+br.com.web.client
+br.com.web.client.delegate
+br.com.web.interfaces
+br.com.web.interfaces.impl
+br.com.web.pojo
+br.com.web.server
+br.com.web.service.thread
